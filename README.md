@@ -1,1 +1,1 @@
-# anketpujari-profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7FF&background=FF000000&center=true&vCenter=true&width=435&lines=Full-Stack+Ninja;React+%26+Next.js+Wizard;Tailwind+CSS+Maestro;Supabase+Sorcerer;TypeScript+Enthusiast)](https://git.io/typing-svg)
